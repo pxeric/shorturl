@@ -1,0 +1,12 @@
+{
+    "IsDebug": true,
+    "HttpPort": ":5003",
+    "DBHost": "127.0.0.1:3306",
+    "DBUser": "root",
+    "DBPwd": "root",
+    "DBName": "urlmap",
+    "RedisHost": "127.0.0.1:6379",
+    "RedisPwd": "",
+    "RedisDB": 10,
+    "DebugLog": true
+}
